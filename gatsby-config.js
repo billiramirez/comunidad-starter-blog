@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Comunidad de Javascript Nicaragua`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Js Nic`,
+      summary: `La comunidad de javascript es una comunidad fuerte en tecnologias JS`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blog inicial de la comunidad de Javascript`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `javascript_ni`,
     },
   },
   plugins: [

@@ -59,9 +59,9 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
+        © {new Date().getFullYear()}, Hecho por
         {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <a href="https://ni.js.org/">Comunidad Javascript Nicaragua</a>
       </footer>
     </div>
   )
